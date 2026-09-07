@@ -1,0 +1,9 @@
+ads.sber.ru
+clickstream.sberbank.ru
+neon.click
+sbermarketing.ru
+full:error-tracking.megamarket.tech
+full:metrics.21-school.ru
+full:sentry.sberauto.com
+full:tracing-http.megamarket.tech
+full:visor.sberbank.ru
