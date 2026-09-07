@@ -1,0 +1,5 @@
+full:copilot-telemetry-service.githubusercontent.com
+full:copilot-telemetry.githubusercontent.com
+full:browser-intake-datadoghq.com
+full:o33249.ingest.sentry.io
+full:openai.qualtrics.com
