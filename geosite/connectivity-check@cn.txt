@@ -1,0 +1,10 @@
+captive.apple.com
+full:www.gstatic.com
+full:connectivitycheck.platform.hihonorcloud.com
+full:connectivitycheck.platform.hicloud.com
+full:connect.rom.miui.com
+full:conn1.oppomobile.com
+full:conn2.oppomobile.com
+full:www.qualcomm.cn
+full:connectivity.samsung.com.cn
+full:wifi.vivo.com.cn
