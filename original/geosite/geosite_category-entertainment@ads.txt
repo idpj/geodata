@@ -1,0 +1,9 @@
+full:disney.my.sentry.io
+analytics.tiktok.com
+full:adeventtracker.spotify.com
+full:adstudio-assets.scdn.co
+full:bloodhound.spotify.com
+ads.youtube.com
+ads-pixiv.net
+insights-collector.gog.com
+log-upload-os.hoyoverse.com
