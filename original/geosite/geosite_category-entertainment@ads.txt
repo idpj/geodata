@@ -1,0 +1,9 @@
+log-upload-os.hoyoverse.com
+insights-collector.gog.com
+analytics.tiktok.com
+ads-pixiv.net
+full:adeventtracker.spotify.com
+full:adstudio-assets.scdn.co
+full:bloodhound.spotify.com
+ads.youtube.com
+full:disney.my.sentry.io
