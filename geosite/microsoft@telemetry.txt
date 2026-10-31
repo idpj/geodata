@@ -1,0 +1,17 @@
+applicationinsights.io
+applicationinsights.net
+aria.ms
+data.microsoft.com
+telemetry.microsoft.com
+nelreports.net
+in.applicationinsights.azure.com
+full:dc.applicationinsights.azure.com
+full:live.applicationinsights.azure.com
+cafe.github.com
+collector.github.com
+full:copilot-telemetry-service.githubusercontent.com
+full:copilot-telemetry.githubusercontent.com
+full:dc.services.visualstudio.com
+full:rt.services.visualstudio.com
+browser.events.data.msn.cn
+browser.events.data.msn.com
