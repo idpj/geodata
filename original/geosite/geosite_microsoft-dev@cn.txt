@@ -1,0 +1,4 @@
+microsoftreactor.cn
+microsoftreactor.com.cn
+reactorms.com.cn
+full:download.visualstudio.microsoft.com
