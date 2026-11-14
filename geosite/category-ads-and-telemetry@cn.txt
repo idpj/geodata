@@ -1,0 +1,5 @@
+cloudflareinsights-cn.com
+cloudflareinsights-cn.com
+full:crashlyticsreports-pa.googleapis.com
+full:firebase-settings.crashlytics.com
+full:update.crashlytics.com
