@@ -1,0 +1,3 @@
+full:log-sdk.gifshow.com
+full:wlog.kuaishou.com
+full:apilog-web.acfun.cn
